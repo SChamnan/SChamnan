@@ -1,3 +1,4 @@
 ## Hi there 👋 I'm Chamnan
 
-[![Chamnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SChamnan)](https://github.com/SChamnan/github-readme-stats)
+<img alt="my status" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SChamnan"/>
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SChamnan&layout=compact"/>
